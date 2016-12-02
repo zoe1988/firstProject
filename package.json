@@ -2,6 +2,7 @@
   "name":"zoeApplication",
   "description": "a simple application",
   "dependencies": {
-    "sentiment":"*"
+    "sentiment":"*",
+    "express":"*"
   }
 }
